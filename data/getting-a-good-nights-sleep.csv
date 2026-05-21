@@ -1,2 +1,6 @@
-﻿Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
-1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,None
+id,name,value
+1,A,10
+2,B,20
+3,C,30
+4,D,40
+5,E,50
